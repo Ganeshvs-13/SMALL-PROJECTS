@@ -1,4 +1,1 @@
 # SMALL-PROJECTSSF
-SFD
-dhd
-bfd
